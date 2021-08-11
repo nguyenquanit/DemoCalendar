@@ -1,0 +1,23 @@
+table{
+    width: 500px;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.day-table {
+    background-color: orange;
+}
+td {
+    text-align: center;
+}
+
+.day-detail, .day-detail > td {
+    border: 1px solid black;
+}
+.table-day2 {
+    width: 500px;
+    border-collapse: collapse;
+}
